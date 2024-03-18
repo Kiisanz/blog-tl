@@ -1,0 +1,18 @@
+[
+  {
+    "menu": "about",
+    "path": "/about"
+  },
+  {
+    "menu": "events",
+    "path": "/about/#contact"
+  },
+  {
+    "menu": "newsletter",
+    "path": "/about/#newsletter"
+  },
+  {
+    "menu": "blog",
+    "path": "/"
+  }
+]
