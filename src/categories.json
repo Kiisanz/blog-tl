@@ -1,0 +1,42 @@
+[
+	{
+		"value": "Technology",
+		"label": "Technology"
+	},
+	{
+		"value": "Travel",
+		"label": "Travel"
+	},
+	{
+		"value": "Food & Cooking",
+		"label": "Food & Cooking"
+	},
+	{
+		"value": "Health & Fitness",
+		"label": "Health & Fitness"
+	},
+	{
+		"value": "Fashion",
+		"label": "Fashion"
+	},
+	{
+		"value": "Finance",
+		"label": "Finance"
+	},
+	{
+		"value": "Home & Decor",
+		"label": "Home & Decor"
+	},
+	{
+		"value": "Art & Culture",
+		"label": "Art & Culture"
+	},
+	{
+		"value": "Sports",
+		"label": "Sports"
+	},
+	{
+		"value": "Gardening",
+		"label": "Gardening"
+	}
+]

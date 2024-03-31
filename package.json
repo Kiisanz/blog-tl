@@ -10,11 +10,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^41.2.1",
+    "@ckeditor/ckeditor5-build-multi-root": "^41.2.1",
+    "@ckeditor/ckeditor5-image": "^41.2.1",
+    "@ckeditor/ckeditor5-react": "^6.2.0",
+    "@ckeditor/ckeditor5-upload": "^41.2.1",
     "@tabler/icons-react": "^3.1.0",
+    "@tinymce/tinymce-react": "^5.0.0",
     "axios": "^1.6.8",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.22.3"
+    "react-router-dom": "^6.22.3",
+    "react-select": "^5.8.0",
+    "slugify": "^1.6.6"
   },
   "devDependencies": {
     "@types/react": "^18.2.64",
